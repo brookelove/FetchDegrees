@@ -1,0 +1,39 @@
+body {
+    background-color:whitesmoke ;
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+h1 {
+    font-size: 300%;
+}
+#div-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3%;
+    text-align: start;
+}
+#div-container div{
+    width: 50%;
+   margin:3%;
+   padding:1.5%;
+   color: white;
+   background-color:rgb(24, 24, 24);
+   border-radius:25px;
+   box-shadow: 21px 21px 22px 0px rgba(130,130,130,0.6);
+}
+
+button {
+    padding:0.5%;
+    background-color:rgb(24, 24, 24);
+    color: whitesmoke;
+    border: 1px solid rgb(24, 24, 24);
+    border-radius: 10px;
+}
+.hide {
+    color: transparent;
+}
+.img {
+    width:23%;
+}

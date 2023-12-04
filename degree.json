@@ -1,0 +1,24 @@
+{
+    "total_degrees": [
+      {
+        "degree": {
+          "id": 1,
+          "img":"https://s3.wp.wsu.edu/uploads/sites/1387/2016/07/Cougarhead_201.jpg",
+          "School": "Washington State University",
+          "Program": "Biology",
+          "Type": "BS",
+          "Year": 2021
+        }
+      },
+      {
+        "degree": {
+          "id": 2,
+          "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Boston_University_seal.svg/1024px-Boston_University_seal.svg.png",
+          "School": "Boston University",
+          "Program": "Software Development",
+          "Type": "MS",
+          "Year": 2024
+        }
+      }
+    ]
+  }
